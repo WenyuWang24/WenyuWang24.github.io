@@ -1,0 +1,33 @@
+/* your styles go here */
+.footer {
+    padding: 50px 0px;
+    background: #eeeeee;
+}
+
+#cookieConsentModal .modal-content {
+    background-color: rgba(0, 0, 0, 0.85);
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  #cookieConsentModal .btn-primary {
+    background-color: #4b65e0; /* Color similar to the blue button in the image */
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+  }
+  
+  #cookieConsentModal .btn-outline-secondary {
+    border: 1px solid white;
+    color: white;
+    padding: 10px 20px;
+  }
+  
+  #cookieConsentModal .modal-body {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+
